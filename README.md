@@ -28,3 +28,4 @@ This repository contains the publications of EriC.MA. Welcome to cite these pape
 
 ## Blog Articles
 
+1. **<u>Cong MA</u>**, [Methods to Contribute SFFAI AIKT](https://github.com/EriCongMa/Publications-of-EriC.MA/blob/master/Blog_Articles/Methods_to_Contribute_SFFAI_AIKT.pdf). *Focusing on how to contribute to SFFAI AIKT open-resource project.* 30th, Mar., 2019.
